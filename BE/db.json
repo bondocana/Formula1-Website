@@ -1,0 +1,24 @@
+{
+    "dogs": [
+        {
+            "id": 3,
+            "name": "Ferrari",
+            "img": "https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari.png.transform/6col/image.png"
+        },
+        {
+            "id": 4,
+            "name": "Mercedes",
+            "img": "https://www.formula1.com/content/dam/fom-website/teams/2022/mercedes.png.transform/4col/image.png"
+        },
+        {
+            "name": "McLaren",
+            "img": "https://www.formula1.com/content/dam/fom-website/teams/2022/mclaren.png.transform/6col/image.png",
+            "id": 5
+        },
+        {
+            "name": "RedBull",
+            "img": "https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/6col/image.png",
+            "id": 6
+        }
+    ]
+}
